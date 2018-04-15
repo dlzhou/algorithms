@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1456646095 source:d:\algorithms\hackerrank\matrixrotation\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<sstream>
+

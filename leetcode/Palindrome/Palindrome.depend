@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1443374291 source:c:\vc\algorithms\palindrome\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<algorithm>
+
+1443364464 source:c:\vc\algorithms\palindrome\palindrome.c
+	<string.h>
+
