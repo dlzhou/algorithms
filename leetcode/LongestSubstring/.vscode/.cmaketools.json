@@ -13,15 +13,15 @@
         "name": "Debug",
         "projects": [
           {
-            "buildDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/AddTwoNumber/build",
-            "name": "AddTwoNumber",
-            "sourceDirectory": "/Users/danlanzhou/Develop/algorithm/leetcode/AddTwoNumber",
+            "buildDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring/build",
+            "name": "LongestSubstring",
+            "sourceDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring",
             "targets": [
               {
                 "artifacts": [
-                  "/Users/danlanzhou/Develop/algorithms/leetcode/AddTwoNumber/build/AddTwoNumber"
+                  "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring/build/LongestSubstring"
                 ],
-                "buildDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/AddTwoNumber/build",
+                "buildDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring/build",
                 "fileGroups": [
                   {
                     "compileFlags": "-g  ",
@@ -32,11 +32,11 @@
                     ]
                   }
                 ],
-                "fullName": "AddTwoNumber",
+                "fullName": "LongestSubstring",
                 "linkLanguageFlags": "-g",
                 "linkerLanguage": "CXX",
-                "name": "AddTwoNumber",
-                "sourceDirectory": "/Users/danlanzhou/Develop/algorithm/leetcode/AddTwoNumber",
+                "name": "LongestSubstring",
+                "sourceDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring",
                 "type": "EXECUTABLE"
               }
             ]
@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "cookie": "0.15445177575072666",
+    "cookie": "0.6657112014888935",
     "inReplyTo": "codemodel",
     "type": "reply"
   }
