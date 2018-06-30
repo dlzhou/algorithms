@@ -13,15 +13,15 @@
         "name": "Debug",
         "projects": [
           {
-            "buildDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring/build",
-            "name": "LongestSubstring",
-            "sourceDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring",
+            "buildDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestPalindrome/build",
+            "name": "LongestPalindrome",
+            "sourceDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestPalindrome",
             "targets": [
               {
                 "artifacts": [
-                  "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring/build/LongestSubstring"
+                  "/Users/danlanzhou/Develop/algorithms/leetcode/LongestPalindrome/build/LongestPalindrome"
                 ],
-                "buildDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring/build",
+                "buildDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestPalindrome/build",
                 "fileGroups": [
                   {
                     "compileFlags": "-g  ",
@@ -32,11 +32,11 @@
                     ]
                   }
                 ],
-                "fullName": "LongestSubstring",
+                "fullName": "LongestPalindrome",
                 "linkLanguageFlags": "-g",
                 "linkerLanguage": "CXX",
-                "name": "LongestSubstring",
-                "sourceDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring",
+                "name": "LongestPalindrome",
+                "sourceDirectory": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestPalindrome",
                 "type": "EXECUTABLE"
               }
             ]
@@ -44,7 +44,7 @@
         ]
       }
     ],
-    "cookie": "0.9653155640062927",
+    "cookie": "0.006984655632816361",
     "inReplyTo": "codemodel",
     "type": "reply"
   }
