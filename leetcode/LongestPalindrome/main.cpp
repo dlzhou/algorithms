@@ -6,6 +6,7 @@
 #include <sstream>
 #include <fstream>
 #include <time.h>
+#include <map>
 using namespace std;
 
 
@@ -26,6 +27,30 @@ public:
         return bRet;
     }
 
+    string longestPalindrome(string s)
+    {
+        map< char, vector<int> > hashMap;
+        const char *strInput = s.c_str();
+
+        int maxlen = 1;
+        string maxPal = s.substr(0, 1);
+        for (int i = 0; i < s.length(); i++)
+        {
+            for (int j = 0; j < hashMap[strInput[i]].size(); j++)
+            {
+                int k = hashMap[strInput[i]][j];
+                if(i-k+1 > maxlen
+                 && isPalindrome(s.substr(k, i-k+1))) {
+                    maxlen = i-k+1;
+                    maxPal = s.substr(k, i-k+1);
+                }
+            }
+            hashMap[strInput[i]].push_back(i);
+        }
+        return maxPal;
+    }
+
+#if 0
     string longestPalindrome(string s) {
         int maxlen = 1;
         string maxPal = s.substr(0,1);
@@ -40,6 +65,7 @@ public:
         }
         return maxPal;
     }
+#endif
 };
 
 
