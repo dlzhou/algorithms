@@ -1,12 +1,108 @@
 {
 	"folders": [
 		{
-			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestPalindrome"
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/LongestSubstring"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/cards/bridge/redeal"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/cards/bridge/dds"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/cards/bridge/gnubridge"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/chess/ChineseChess-AlphaZero"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/cards/DouDiZhu"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/cards/guandan"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/tuanyituan/antforrest"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/leela/lc0"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/leela/lczero-common"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/leela/lczero-client"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/chess/leela-chess-to-Chinese-Chess"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/leela/lczero-training"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/xq"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/xq-training"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/tuanyituan/chess/stockfishnew"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/go/KataGo"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/ZigZag"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/ReverseInteger"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/myatoi"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/goworkspace"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/checkpalindrome"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/container"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/IntegertoRoman"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/RomantoInteger"
 		}
 	],
 	"settings": {
 		"files.associations": {
-			"iostream": "cpp"
+			"iostream": "cpp",
+			"stdexcept": "cpp",
+			"string": "cpp",
+			"iosfwd": "cpp",
+			"algorithm": "cpp",
+			"random": "cpp",
+			"fstream": "cpp",
+			"locale": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp",
+			"__split_buffer": "cpp",
+			"vector": "cpp",
+			"iterator": "cpp",
+			"initializer_list": "cpp",
+			"utility": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"__locale": "cpp",
+			"__config": "cpp",
+			"__nullptr": "cpp",
+			"cstddef": "cpp",
+			"exception": "cpp",
+			"new": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp"
 		}
 	}
 }

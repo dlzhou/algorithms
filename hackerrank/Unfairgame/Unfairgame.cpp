@@ -730,7 +730,7 @@ int main(void) {
 	cout << endl;
 	//V[3] = 1;
 	//int result = win(V, 3);
-	//cout << result << endl;	
+	//cout << result << endl;
 #if 0
 	int nCount = 0;
 	for (int i = 0; i < 100; i++)
