@@ -74,6 +74,60 @@
 		},
 		{
 			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/RomantoInteger"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/longestCommonPrefix"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/3sum"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/cross"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/3sumclosest"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/lettercomb"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/4sum"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/rmnth"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/validpats"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/mergelists"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/genpats"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/mergek"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/swapadj"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/revkg"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/remdup"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/rmelements"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/strstr"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/dnnw"
+		},
+		{
+			"path": "/Users/danlanzhou/Develop/algorithms/leetcode/divide"
 		}
 	],
 	"settings": {
@@ -102,7 +156,12 @@
 			"exception": "cpp",
 			"new": "cpp",
 			"type_traits": "cpp",
-			"typeinfo": "cpp"
+			"typeinfo": "cpp",
+			"__bit_reference": "cpp",
+			"__string": "cpp",
+			"__tree": "cpp",
+			"map": "cpp",
+			"string_view": "cpp"
 		}
 	}
 }
